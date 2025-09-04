@@ -43,12 +43,12 @@ const SpacePage: React.FC = () => {
 
             {/* Desktop Layout - Side by side */}
             <div className="hidden lg:flex py-20 gap-[40%] items-end">
-              <div className="flex flex-col mt-[20%]">
+              <div className="flex flex-col mt-[15%]">
                 <h2 className="text-xl text-gray-300 mb-4">
                   SO, YOU WANT TO TRAVEL TO
                 </h2>
                 <h1 className="text-8xl font-bold text-white mb-6">SPACE</h1>
-                <p className="font-barlow text-[#D0D6F9] max-w-lg mx-auto mb-8 leading-relaxed">
+                <p className="font-barlow text-[#D0D6F9] max-w-xl mx-auto mb-12 leading-relaxed">
                   Let's face it; if you want to go to space, you might as well
                   genuinely go to outer space and not hover kind of on the edge of
                   it. Well sit back, <br/> and relax because we'll give you a truly out
