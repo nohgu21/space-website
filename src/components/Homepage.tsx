@@ -42,7 +42,7 @@ const SpacePage: React.FC = () => {
             </div>
 
             {/* Desktop Layout - Side by side */}
-            <div className="hidden lg:flex py-20 gap-[40%] items-end">
+            <div className="hidden lg:flex py-20 gap-[30%] items-end ml-10">
               <div className="flex flex-col mt-[15%]">
                 <h2 className="text-xl text-gray-300 mb-4">
                   SO, YOU WANT TO TRAVEL TO
