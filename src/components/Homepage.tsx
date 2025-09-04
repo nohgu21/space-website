@@ -26,7 +26,7 @@ const SpacePage: React.FC = () => {
                 <h1 className="text-6xl md:text-8xl font-bold text-white mb-6 md:mb-8">
                   SPACE
                 </h1>
-                <p className="text-[#D0D6F9] text-sm md:text-base max-w-md mx-auto mb-8 leading-relaxed px-2">
+                <p className="font-barlow text-[#D0D6F9] text-sm md:text-base max-w-md mx-auto mb-8 leading-relaxed px-2">
                   Let's face it; if you want to go to space, you might as well
                   genuinely go to outer space and not hover kind of on the edge of
                   it. Well sit back, and relax because we'll give you a truly out
